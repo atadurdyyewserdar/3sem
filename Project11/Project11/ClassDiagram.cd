@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Car" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAARABAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Car.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarElectric" Collapsed="true">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJAIAAABAAgACAAAAAERABARAQAQABAAggAAAJCAA=</HashCode>
+      <FileName>CarElectric.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarMoto" Collapsed="true">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJCIAAABAAgACAAAAAERABARAQgQABAAAgAAAJCAA=</HashCode>
+      <FileName>CarMoto.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLight" Collapsed="true">
+    <Position X="7.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJAIAAABAAgACAAAAAERABARAQAQABAgAgAAAJCAA=</HashCode>
+      <FileName>CarLight.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarHeavy" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <InheritanceLine Type="Car" FixedToPoint="true">
+      <Path>
+        <Point X="4.5" Y="1.062" />
+        <Point X="4.5" Y="2.625" />
+        <Point X="1.25" Y="2.625" />
+        <Point X="1.25" Y="3" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAJAIAAABAAgACAAAAAERABARAQAQABAQAgAAAJCAA=</HashCode>
+      <FileName>CarHeavy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="File&lt;Type&gt;" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAABIACgAAABAAAAAAAAAECACAAAAAAAAAAAA=</HashCode>
+      <FileName>File.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArrayList&lt;Type&gt;" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJAAAAgAAAAAADACIEAAAAAAAEAAAAAIAAAAgBAAgA=</HashCode>
+      <FileName>ArrayList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ErrorInput" Collapsed="true">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAQAAAAAAAAEAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ErrorInput.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ErrorNumberInput" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAgAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>ErrorNumberInput.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ErrorCharInput" Collapsed="true">
+    <Position X="13.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ErrorCharInput.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Klient" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAIAABAgAMAAAAAAASAAwABHA=</HashCode>
+      <FileName>Klient.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CABSAAAAEhgopAABABCJAAABhAUGgAgHYICAIBQhQSQ=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Admin" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAQACAAAAAAAAAAAQAgAAAAA=</HashCode>
+      <FileName>Admin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Node&lt;T&gt;" Collapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAAIAAAA=</HashCode>
+      <FileName>ArrayList.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

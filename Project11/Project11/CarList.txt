@@ -1,0 +1,4 @@
+442 Лекговой AMG Mercedes2 70000 300 1
+443 Лекговой AMG Mercedes3 70000 300 2
+444 Лекговой AMG Mercedes4 70000 300 3
+445 Лекговой AMG Mercedes5 70000 300 4
